@@ -1,6 +1,6 @@
 # TIPE
 
-Work for a competitive exam, originally not finished (only the file `original/my_mfcc.py`). My work was presented in July of 2023.
+Work for a competitive exam, originally not finished (only the file `Original/my_mfcc.py`). My work was presented in July of 2023.
 The goal was to identify bird species only by their singing, using the Mel Frequency Cepstral Coefficients.
 
 ## Original
